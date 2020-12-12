@@ -1,3 +1,9 @@
+# This is my Marlin fork
+This fork is intended to run only on my modified Anycubic Mega printer.
+
+I try to keep the firmware modifications against the Marlin codebase as minimal as I can, so I can pull updates from main repository at any time. 
+Think of this repo as a simple backup of my own development folder, shared here to have a backup and an easy way to send mods to my friend Gian Luca, that owns almost the same printer.
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
